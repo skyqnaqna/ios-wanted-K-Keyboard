@@ -6,7 +6,7 @@
 |[Github](https://github.com/seungchann)|[Github](https://github.com/skyqnaqna)|  
 
 ## 개발 기간  
-2022.09.29 ~ 10.18
+2022.09.29 ~ 10.8
 
 ## 구조 및 기능  
 ## 첫 번째 페이지  
